@@ -1,5 +1,3 @@
-<p align="center"><strong>CodeScanner</strong></p>
-
 ## What's This?
 
 CodeScanner is a dead simple QR and barcode scanning application.
