@@ -4,6 +4,7 @@
 //
 //  Created by John Ayres on 12/27/23.
 //
+//  Copyright © 2023 John Ayres. Licensed under MIT License.
 
 import Foundation
 import UIKit
